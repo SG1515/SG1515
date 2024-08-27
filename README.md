@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://seonggu.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white" /> 
-  </a> &npsb
+  </a> &nbsp
   <a href="mailto:sunggu3012@gmail.com">
     <img
       src="https://img.shields.io/badge/sunggu3012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
