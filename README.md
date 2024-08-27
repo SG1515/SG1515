@@ -29,11 +29,9 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/jQuery-007ACC.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Redis-FF4154?style=for-the-badge&logo=Redis%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-FF4154?style=for-the-badge&logo=REDIS%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-3578E5?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 <br>
 
