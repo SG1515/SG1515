@@ -17,7 +17,7 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical" width="43%"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical" width="60%"/>  
 <a href="https://solved.ac/sunggu507">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunggu507" width="43%"/>
 </a>
