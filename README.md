@@ -2,8 +2,11 @@
 
 <br>
 
-![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonggu&show_icons=true&theme=radical)
+![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical)
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG1515&layout=compact)
 
 
 <!--
