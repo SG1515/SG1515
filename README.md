@@ -2,8 +2,6 @@
 
 <br>
 
-![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical)
-
 
 <!-- contact --> 
 <h3 align="center">📫 Contact 📫</h3>
@@ -17,4 +15,6 @@
   </a>
 </div>
 
+<br>
 
+![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical)
