@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=250&section=header&text=Welcome%20to%0A%20Seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
 
-<div align="center">✅ **Tech Stack** ✅</div>
+<div align="center">✅ Tech Stack ✅</div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
@@ -29,8 +29,8 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/jQuery-007ACC.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-FF4154?style=for-the-badge&logo=Redis%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-3578E5?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
 </div>
 
 <br>
