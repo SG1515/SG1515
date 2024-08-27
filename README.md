@@ -4,23 +4,17 @@
 
 ![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical)
 
-<br>
+
+<!-- contact --> 
+<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG1515&layout=compact)
+  <a href="https://seonggu.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:sunggu3012@gmail.com">
+    <img
+      src="https://img.shields.io/badge/sunggu3012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 
-<!--
-**SG1515/SG1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
