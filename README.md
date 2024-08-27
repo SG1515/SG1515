@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%to%seonggu's%Github!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%%to%seonggu's%Github!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to\n%20seonggu's%20Github!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
+
 <br>
 ![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
