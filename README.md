@@ -20,6 +20,7 @@
 
 
 <div align="center">📚 Studying 📚</div>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
@@ -30,6 +31,7 @@
 
 
 <div align="center">🛠 Tools 🛠</div>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -42,6 +44,7 @@
 
 <!-- contact --> 
 <div align="center">📫 Contact 📫</div>
+<br>
 <div align="center">
   <a href="https://seonggu.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white" /> 
