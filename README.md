@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to%0A%20Seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=300&section=header&text=Welcome%20to%0A%20Seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
 
 <div align="center">✅ Tech Stack ✅</div>
@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-v2.2.0-blue" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
@@ -76,4 +76,3 @@
 </a>
 
 </div>
-
