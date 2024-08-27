@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome to seonggu's Github)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%to%seonggu's%Github!)
 <br>
 ![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
