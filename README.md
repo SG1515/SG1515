@@ -3,7 +3,7 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/spring%20security-6DB33F.svg?style=for-the-badge&logo=spring%20security&logoColor=white" />&nbsp
 </div>
