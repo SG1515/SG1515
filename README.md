@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to%0A%20seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
-<br>
-<br>
+
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
