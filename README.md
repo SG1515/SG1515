@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to%0A%20seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to%0A%20Seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
 
-<div align="center">✨ Tech Stack ✨</div>
+<div align="center">✅ Tech Stack ✅</div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
@@ -16,16 +16,24 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-0099cc.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Oracle-F15A29.svg?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/spring%20JPA-6DB33F.svg?style=for-the-badge&logo=spring%20JPA&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Mybatis-0074D9.svg?style=for-the-badge&logo=Mybatis&logoColor=DDDDDD" />&nbsp
+</div>
 <br>
 
 
 <div align="center">📚 Studying 📚</div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jQuery-007ACC.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
+
+<br>
 
 <br>
 
@@ -40,7 +48,6 @@
 </div>
 
 <br>
-
 
 <!-- contact --> 
 <div align="center">📫 Contact 📫</div>
