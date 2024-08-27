@@ -2,7 +2,7 @@
 
 <br>
 
-![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Seonggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonggu&show_icons=true&theme=radical)
 
 
 
