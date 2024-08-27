@@ -8,6 +8,8 @@
     <img src="https://img.shields.io/badge/spring%20security-6DB33F.svg?style=for-the-badge&logo=spring%20security&logoColor=white" />&nbsp
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
@@ -15,6 +17,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
+<br>
 
 
 <div align="center">📚 Studying 📚</div>
@@ -23,6 +26,8 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
+
+<br>
 
 
 <div align="center">🛠 Tools 🛠</div>
