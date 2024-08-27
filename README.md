@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to%0A%20seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">✨ Tech Stack ✨</div>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -17,7 +17,7 @@
 
 
 
-<h3 align="center">📚 Studying 📚</h3>
+<div align="center">📚 Studying 📚</div>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
@@ -25,7 +25,7 @@
 </div>
 
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">🛠 Tools 🛠</div>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -37,7 +37,7 @@
 
 
 <!-- contact --> 
-<h3 align="center">📫 Contact 📫</h3>
+<div align="center">📫 Contact 📫</div>
 <div align="center">
   <a href="https://seonggu.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white" /> 
