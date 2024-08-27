@@ -29,7 +29,7 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/jQuery-007ACC.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/redis-FF4154?style=for-the-badge&logo=redis&logoColor=FF4438" />&nbsp
+  <img src="https://img.shields.io/badge/redis-E02027?style=for-the-badge&logo=redis&logoColor=FF4438" />&nbsp
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=DDDDDD" />&nbsp
 </div>
