@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=300&section=header&text=Welcome%20to%0A%20Seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=270&section=header&text=Welcome%20to%0A%20Seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
 
 <div align="center">✅ Tech Stack ✅</div>
