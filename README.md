@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/spring%20security-6DB33F.svg?style=for-the-badge&logo=spring%20security&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
