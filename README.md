@@ -19,8 +19,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-0099cc.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Oracle-F15A29.svg?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring%20JPA-6DB33F.svg?style=for-the-badge&logo=spring%20JPA&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Mybatis-0074D9.svg?style=for-the-badge&logo=Mybatis&logoColor=DDDDDD" />&nbsp
+  <img src="https://img.shields.io/badge/spring%20JPA-6DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-0074D9.svg?style=for-the-badge&logo=MyBatis&logoColor=DDDDDD" />&nbsp
 </div>
 <br>
 
