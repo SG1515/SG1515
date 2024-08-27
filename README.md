@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,100:f3e5f5&height=200&section=header&text=Welcome%20to%0A%20seonggu's%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35)
 
 
-<br>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -53,7 +51,9 @@
   </a>
 </div>
 
-<br>
+<br><br><br>
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SG1515&show_icons=true&theme=radical" width="50%"/>  
 <a href="https://solved.ac/sunggu507">
