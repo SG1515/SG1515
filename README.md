@@ -51,16 +51,11 @@
 <div align="center">📫 Contact 📫</div>
 <br>
 <div align="center">
-  <a href="https://seonggu.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white" /> 
-  </a> &nbsp
   <a href="mailto:sunggu3012@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="mailto:sunggu507@naver.com"> &nbsp
-    <img
-      src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
