@@ -27,10 +27,10 @@
 <div align="center">📚 Studying 📚</div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/jQuery-007ACC.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/redis-E02027?style=for-the-badge&logo=redis&logoColor=FF4438" />&nbsp
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=DDDDDD" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 </div>
 
 <br>
