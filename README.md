@@ -15,5 +15,5 @@
 
 - SAJO SYSTEMS  |  Software developer (2024.12.02-2026.08.18)
 - KOSA SI Developer Training Program (2024.05.16-2024.11.15)
-- Samsung SAIT | Compute Node Operations (2023.09.04-2024.04.30)
+- Samsung SAIT Compute Node Operations (2023.09.04-2024.04.30)
 - LikeLion Backend School (2022.06.15-2022.11.11)
