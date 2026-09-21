@@ -5,7 +5,7 @@
  
 ## About Me
 
-- Backend(Java/Spring), AI(AWS), Cloud(AWS)
+- Backend(Java/Spring), AI(python, AWS), Cloud(AWS)
 - Email: [sunggu507@naver.com](mailto:sunggu507@naver.com)
 
 ## Education & Experience
